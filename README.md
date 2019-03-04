@@ -11,5 +11,5 @@ The following analysis investigates which types of severe weather events are mos
 Information on the Data: [Documentation](https://d396qusza40orc.cloudfront.net/repdata%2Fpeer2_doc%2Fpd01016005curr.pdf)
 
 ## Summary
-Analysis can be found here[1]
+Analysis can be found [here][1]
 [1]: https://github.com/jlalhuber/Reproducible_Research_2/blob/master/PA2_Template.md
