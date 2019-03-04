@@ -12,4 +12,6 @@ Information on the Data: [Documentation](https://d396qusza40orc.cloudfront.net/r
 
 ## Summary
 Analysis can be found [here][1]
+
+
 [1]: https://github.com/jlalhuber/Reproducible_Research_2/blob/master/PA2_Template.md
